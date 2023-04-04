@@ -33,7 +33,7 @@ public class PuzzleGameManager : MonoBehaviour
     {
         correctedBlocks += 1;
 
-        Debug.Log("correct Move");
+        //Debug.Log("correct Move");
 
         if(correctedBlocks == totalBlock)
         {
